@@ -1,4 +1,4 @@
-### Hi there! :shipit:
+### Hi there! 🖖
 My name is Marco Aurélio, made in Rio Grande do Sul 🧉. Graduated in Mechatronics Engineering 🤖⚡💻, and passionate about open source projects.
 
 In my free time, I like to play/watch soccer ⚽ 🇪🇪 and CS:GO 🎮, to read books and listen to music 🎸.
