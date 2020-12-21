@@ -22,7 +22,7 @@ I love the javascript universe and everything that involves the programming worl
 ****
 
 ### :tada: My Github stats:
-<img align="left" width=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" /> <img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
+<img align="left" width=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" /> <img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
 ****
 
 ### 🔎 How to reach me
