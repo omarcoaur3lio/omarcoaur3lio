@@ -22,7 +22,7 @@ I love the javascript universe and everything that involves the programming worl
 ****
 
 ### 🔎 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio){:target="_blank"}](https://www.linkedin.com/in/omarcoaur3lio)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
 [![Outlook Badge](https://img.shields.io/badge/-Email-00BFA5?style=flat&labelColor=000&logo=microsoft%20outlook&logoColor=white&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
