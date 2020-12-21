@@ -4,7 +4,8 @@
 ## 🙋🏻‍♂️ A little about me:
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ***
-<img align="right" width="200" height="200" src="https://imgur.com/XAW9tnO" /> 
+<img align="right" width="200" height="200" src="https://imgur.com/XAW9tnO" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/E2pF9M4" data-context="false" ><a href="//imgur.com/a/E2pF9M4"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <p  align="left">
   
