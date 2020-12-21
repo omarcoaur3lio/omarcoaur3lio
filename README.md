@@ -4,7 +4,7 @@
 ### 🙋🏻‍♂️ A little about me:
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ***
-<img style="background-size: contain;" align="right" width="200" height="200" src="https://i.imgur.com/6QNkc3F.gif/" />
+<img style="background-size: contain;" align="right" width="200" height="200" src="https://i.imgur.com/I2qPuqF.gif/" />
 
 <p  align="left">
   
@@ -22,7 +22,8 @@ I love the javascript universe and everything that involves the programming worl
 
 ### 🔎 How to reach me
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat-square&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
 [![Outlook Badge](https://img.shields.io/badge/-Email-00BFA5?style=flat&labelColor=000&logo=microsoft%20outlook&logoColor=white&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
 
