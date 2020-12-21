@@ -4,7 +4,7 @@
 ## 🙋🏻‍♂️ A little about me:
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ***
-<img align="right" width="200" height="200" src="https://imgur.com/XAW9tnO" />
+<img align="right" width="200" height="200" src="https://ibb.co/jRFTTLV" />
 
 <p  align="left">
   
