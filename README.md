@@ -1,4 +1,4 @@
-Hey 👋, I'm **Marco**
+Hey 👋, I'm **Marco** <br>
 better known as **Marco** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
 My name is Marco Aurélio, made in Rio Grande do Sul 🧉. Graduated in Mechatronics Engineering 🤖⚡💻, and passionate about open source projects.
 
