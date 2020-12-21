@@ -27,8 +27,7 @@ I love the javascript universe and everything that involves the programming worl
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
 </p>
 ****
-
-
+<br>
 ### 🔎 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
