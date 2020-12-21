@@ -21,7 +21,7 @@ I love the javascript universe and everything that involves the programming worl
   <br/>
 ****
 
-## :tada: My Github stats:
+### :tada: My Github stats:
 <img width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
 ***
@@ -32,4 +32,3 @@ I love the javascript universe and everything that involves the programming worl
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
 [![Outlook Badge](https://img.shields.io/badge/-Email-00BFA5?style=flat&labelColor=000&logo=microsoft%20outlook&logoColor=white&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
-
