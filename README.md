@@ -13,7 +13,7 @@ I love the javascript universe and everything that involves the programming worl
   
   ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
-</p
+</p>
   
 <p> 
   
