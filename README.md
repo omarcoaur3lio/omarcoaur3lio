@@ -8,7 +8,7 @@ I love the javascript universe and everything that involves the programming worl
 <p>
 <img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/I2qPuqF.gif/" />
 <p>
-<p align="left"> 
+<p align="left" max-width="20px"> 
   
   ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
