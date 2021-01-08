@@ -9,11 +9,10 @@ I love the javascript universe and everything that involves the programming worl
   <img style="background-size: contain;" width="200" height="200" src="https://i.imgur.com/I2qPuqF.gif/" />
 </p>
 
-<p  align="left">
+<p align="left">
   
-### :mortar_board: I have a degree in Mechatronic Engineering 🤖
-from [UniSatc](https://web.satc.edu.br/) University. 
-
+### :mortar_board: I have a degree in Mechatronic Engineering 🤖from [UniSatc](https://web.satc.edu.br/) University. 
+</p>
 
 - 🇱🇹 I'm made in Rio Grande do Sul and love 🧉
 - 📚 I’m currently learning TypeScript, ReactJS, React Native
