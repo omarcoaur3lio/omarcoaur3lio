@@ -9,11 +9,11 @@ I love the javascript universe and everything that involves the programming worl
 <img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
 
   
-<div align="left" width="30px"> 
+<span align="left" width="30px"> 
   
   ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
-</div>
+</span>
   
 <p> 
   
