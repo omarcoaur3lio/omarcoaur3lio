@@ -7,9 +7,9 @@ I love the javascript universe and everything that involves the programming worl
 ****
 
 <p>
-
-  <p align="right">
-    <img style="background-size: contain;" width="200" height="200" src="https://i.imgur.com/I2qPuqF.gif/" />
+  
+  <p>
+    <img align="right" style="background-size: contain;" width="200" height="200" src="https://i.imgur.com/I2qPuqF.gif/" />
   </p>
 
   <p align="left">
