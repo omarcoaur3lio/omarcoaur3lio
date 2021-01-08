@@ -5,9 +5,9 @@
 ### 🙋🏻‍♂️ A little about me:
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ****
-
+<p>
 <img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/I2qPuqF.gif/" />
-  
+<p>
 <p align="left"> 
   
   ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
