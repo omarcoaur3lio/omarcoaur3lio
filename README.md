@@ -6,7 +6,7 @@
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ****
 
-<img style="background-size: contain;" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
+<img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
 
   
 <p align="left" width="20px"> 
