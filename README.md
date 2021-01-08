@@ -6,11 +6,11 @@
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ****
 
-<img style="background-size: contain;" min-width="250px" width="250px" align="right" src="https://i.imgur.com/I2qPuqF.gif/" />
+<img style="background-size: contain;" min-width="220px"  max-width="320px" width="220px" align="right" src="https://i.imgur.com/I2qPuqF.gif/" />
   
 <p align="left"> 
   
-  ### :mortar_board: I have a degree in Mechatronic Engineering 🤖from [UniSatc](https://web.satc.edu.br/) University. 
+  ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
 </p
   
