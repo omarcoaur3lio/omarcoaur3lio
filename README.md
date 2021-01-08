@@ -5,9 +5,10 @@
 ### 🙋🏻‍♂️ A little about me:
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 ****
-<p align="right" >
+<p align="right">
   <img style="background-size: contain;" width="200" height="200" src="https://i.imgur.com/I2qPuqF.gif/" />
 </p>
+
 <p  align="left">
   
 ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
@@ -18,8 +19,8 @@ I love the javascript universe and everything that involves the programming worl
 - 💜 I'm passionate about open source projects.
 - 💬 Ask me about Linux🐧 
 - :zap: Fun fact: I try to play CS:GO :video_game:
-  <p>
-  <br/>
+ <p>
+ <br/>
 ****
 
 ### 🔎 How to reach me
