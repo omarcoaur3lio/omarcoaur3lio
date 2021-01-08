@@ -9,7 +9,7 @@ I love the javascript universe and everything that involves the programming worl
 <img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
 
   
-<p align="left" width="20px"> 
+<p align="left" width="100px"> 
   
   ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
@@ -27,7 +27,6 @@ I love the javascript universe and everything that involves the programming worl
  
  <br/>
  
-****
 
 ### 🔎 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
