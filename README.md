@@ -40,4 +40,5 @@ I love the javascript universe and everything that involves the programming worl
 <img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
 </p>
 
+![Snake animation](https://github.com/omarcoaur3lio/omarcoaur3lio/blob/output/github-contribution-grid-snake.svg)
 
