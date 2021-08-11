@@ -11,13 +11,13 @@ I love the javascript universe and everything that involves the programming worl
   
 <p align="left"> 
   
-  ### :mortar_board: I have a degree in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
+  ### :mortar_board: Graduated in Mechatronic Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
   
 </p>
   
 <p> 
   
-  - 🇱🇹 I'm made in Rio Grande do Sul and love 🧉
+  - 🧉 I'm made in Rio Grande do Sul
   - 📚 I’m currently learning TypeScript, ReactJS, React Native
   - 💜 I'm passionate about open source projects.
   - 💬 Ask me about Linux🐧 
