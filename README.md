@@ -1,10 +1,7 @@
 ## Hey, I'm **Marco** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
-![](https://komarev.com/ghpvc/?username=omarcoaur3lio&color=00BFA5)
-![](https://img.shields.io/github/followers/omarcoaur3lio?style=social)
-****
-### 🙋🏻‍♂️ A little about me:
+
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
-****
+
 
 <img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
 
