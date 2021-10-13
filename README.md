@@ -1,4 +1,6 @@
-## Hey, I'm **Marco** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&color=%2310BBA4&size=30&vCenter=true&width=390&height=50&lines=Hey%2C+I'm+Marco.)](https://git.io/typing-svg)
 
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 
