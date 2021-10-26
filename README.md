@@ -7,9 +7,9 @@ I love the javascript universe and everything that involves the programming worl
 
 <table width="100%"> 
   <tr>
-  <td width="30%">
+  <td width="50%">
 
-<pre width="10%">
+<pre>
 ~ $ <strong>cat note.txt</strong>
 1. If I'm not responding to any of your PRs or issues,
    feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
