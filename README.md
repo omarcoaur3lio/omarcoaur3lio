@@ -5,43 +5,38 @@
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 
 
-<img style="background-size: contain;" width="300px" align="right" src="https://i.imgur.com/wXZHxBU.gif/" />
+<table width="100%"> 
+  <tr>
+  <td width="30%">
 
-  
-<p align="left"> 
-  
-  ### :mortar_board: Graduated in Mechatronics Engineering 🤖 from [UniSatc](https://web.satc.edu.br/) University. 
-  
+<pre width="10%">
+~ $ <strong>cat note.txt</strong>
+1. If I'm not responding to any of your PRs or issues,
+   feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
+2. I use sourcehut (primarily) to host my repositories.
+   Some of them has github mirrors.
+
+~ $ <strong>finger hedy</strong>
+Login: hedy                             Name: Hedy Li
+Directory: /home/hedy                   Shell: /usr/bin/fish
+Project:
+  - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
+  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
+  - Drafting (b|gem|ph|sh)log posts
+  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+Plan:
+  learning \o/
+</pre>
+
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">
+<img style="background-size: contain;" width="95%" src="https://i.imgur.com/wXZHxBU.gif/" />
+
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=marco_neo&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00bfa5" />
+
 </p>
-  
-<p> 
-  
-  - 🧉 I'm made in Rio Grande do Sul
-  - 📚 I’m currently learning TypeScript, ReactJS, React Native
-  - 💜 I'm passionate about open source projects.
-  - 💬 Ask me about Linux🐧 
-  - :zap: Fun fact: I try to play CS:GO :video_game:
-  
- </p>
- 
- <br/>
- 
-
-### 🔎 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
-[![Outlook Badge](https://img.shields.io/badge/-Email-00BFA5?style=flat&labelColor=000&logo=microsoft%20outlook&logoColor=white&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
-****
-
-### :tada: My Github stats:
-<p align="center" >
-<img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
-</p>
-
-![Snake animation](https://github.com/omarcoaur3lio/omarcoaur3lio/blob/output/github-contribution-grid-snake.svg)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marco_neo&cover_image=true&theme=default&bar_color_cover=false&bar_color=00bfa5)](https://spotify-github-profile.vercel.app/api/view?uid=marco_neo&redirect=true)
-
-
-
+  </td>
+  </table>
