@@ -5,17 +5,18 @@
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
 
 <table width="100%"> 
-    <tr>
-        <td width="40%">
+<tr>
+<td width="40%">
 <pre>
-~ $ <strong>cat about.txt</strong>
-1. I'm made in Rio Grande do Sul
-2. I’m currently learning TypeScript, ReactJS, React Native
-3. I'm passionate about open source projects
+~ $ <strong>cat note.txt</strong>
+1. If I'm not responding to any of your PRs or issues,
+   feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
+2. I use sourcehut (primarily) to host my repositories.
+   Some of them has github mirrors.
 
 ~ $ <strong>finger hedy</strong>
-Login: omarcoaur3lio                    Name: Marco Aurélio
-Directory: /home/marco                  Shell: /usr/bin/zsh
+Login: hedy                             Name: Hedy Li
+Directory: /home/hedy                   Shell: /usr/bin/fish
 Project:
   - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
   - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
