@@ -7,9 +7,9 @@ I love the javascript universe and everything that involves the programming worl
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="40%">
 
-<pre width="50px">
+<pre>
 ~ $ <strong>cat note.txt</strong>
 1. If I'm not responding to any of your PRs or issues,
    feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
@@ -31,10 +31,10 @@ Plan:
 
 
   </td>
-  <td width="70%">
+  <td width="60%">
 
 <br><p align="center">
-<img style="background-size: contain;" width="95%" src="https://i.imgur.com/wXZHxBU.gif/" />
+<img style="background-size: contain;" width="100%" src="https://i.imgur.com/wXZHxBU.gif/" />
 
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=marco_neo&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00bfa5" />
 
