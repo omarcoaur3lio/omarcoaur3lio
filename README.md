@@ -9,7 +9,7 @@ I love the javascript universe and everything that involves the programming worl
   <tr>
   <td width="50%">
 
-<pre>
+<pre width="50px">
 ~ $ <strong>cat note.txt</strong>
 1. If I'm not responding to any of your PRs or issues,
    feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
@@ -23,14 +23,15 @@ Project:
   - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
   - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
   - Drafting (b|gem|ph|sh)log posts
-  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a>
+  (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
 Plan:
   learning \o/
 </pre>
 
 
   </td>
-  <td width="50%">
+  <td width="70%">
 
 <br><p align="center">
 <img style="background-size: contain;" width="95%" src="https://i.imgur.com/wXZHxBU.gif/" />
