@@ -6,7 +6,7 @@ I love the javascript universe and everything that involves the programming worl
 
 <table width="100%"> 
 <tr>
-<td width="40%">
+<td width="50%">
 <pre>
 ~ $ <strong>cat about.txt</strong>
 1. I'm made in Rio Grande do Sul
@@ -29,7 +29,7 @@ Plan:
 </pre>
 
   </td>
-  <td width="60%">
+  <td width="50%">
 
 <br><p align="center">
 <img style="background-size: contain;" width="100%" src="https://i.imgur.com/wXZHxBU.gif/" />
