@@ -24,7 +24,7 @@ Directory: /home/marco                  Shell: /usr/bin/zsh
 Tasks:
   \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a>.
   \- Contribute to open source projects.
-  \- Trabalhando com desenvolvimento de firmware na <a href="#">Synter</a>
+  \- Trabalhando com desenvolvimento de firmware na <a href="#">Synter</a> asasdasdasdasdasdasdasdasdasdasd
 Plan:
   follow the white rabbit \o/
 </pre>
