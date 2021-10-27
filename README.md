@@ -21,10 +21,10 @@ I love the javascript universe and everything that involves the programming worl
 ~ $ <strong>finger hedy</strong>
 Login: omarcoaur3lio                    Name: Marco Aurélio
 Directory: /home/marco                  Shell: /usr/bin/zsh
-Tasks:
-  \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a>.
+Projects, ...tasks:
+  \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a> bootcamp.
   \- Contribute to open source projects.
-  \- Working with firmware development (C language) at <a href="#">Synter</a> 
+  \- Working with firmware development (C language) at <a href="https://www.synter.com.br/">Synter</a> 
 Plan:
   follow the white rabbit \o/
 </pre>
