@@ -19,8 +19,8 @@ I love the javascript universe and everything that involves the programming worl
 <br>
 
 ~ $ <strong>finger hedy</strong>
-Login: omarcoaur3lio                 Name: Marco Aurélio
-Directory: /home/marco               Shell: /usr/bin/zsh
+Login: omarcoaur3lio                    Name: Marco Aurélio
+Directory: /home/marco                  Shell: /usr/bin/zsh
 Tasks:
   \- Complete the React and React Native tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a>.
   \- Contribute to open source projects.
