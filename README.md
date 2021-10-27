@@ -8,22 +8,24 @@ I love the javascript universe and everything that involves the programming worl
 <tr>
 <td width="40%">
 <pre>
-~ $ <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:hedy@tilde.cafe">email</a>.
-2. I use sourcehut (primarily) to host my repositories.
-   Some of them has github mirrors.
+~ $ <strong>cat about.txt</strong>
+1. I'm made in Rio Grande do Sul
+   and love 🧉.
+2. Passionate about open source projects
+   Ask me about Linux 🐧
+3. My current city:
+   Criciúma, SC.
+
+<br>
 
 ~ $ <strong>finger hedy</strong>
-Login: hedy                             Name: Hedy Li
-Directory: /home/hedy                   Shell: /usr/bin/fish
-Project:
-  - Optimizing my <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
-  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
-  - Drafting (b|gem|ph|sh)log posts
-  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+Login: omarcoaur3lio                 Name: Marco Aurélio
+Directory: /home/marco               Shell: /usr/bin/zsh
+Tasks:
+  \- Complete the React and React Native tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a>.
+  \- Contribute to open source projects.
 Plan:
-  learning \o/
+  follow the white rabbit \o/
 </pre>
 
   </td>
