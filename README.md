@@ -42,15 +42,33 @@ Plan:
 </td>
 </table>
 
-### 🔎 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA5?style=flat&labelColor=000&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00BFA5?style=flat&labelColor=000&logo=twitter&logoColor=white&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00BFA5?style=flat&labelColor=000&logo=Instagram&logoColor=white&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
-[![Outlook Badge](https://img.shields.io/badge/-Email-00BFA5?style=flat&labelColor=000&logo=microsoft%20outlook&logoColor=white&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
+<p align="center">
 
-### :sparkles: My Github stats:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-121214?style=for-the-badge&labelColor=000&logo=Linkedin&logoColor=00BFA5&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-121214?style=for-the-badge&labelColor=000&logo=twitter&logoColor=00BFA5&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-121214?style=for-the-badge&labelColor=000&logo=Instagram&logoColor=00BFA5&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
+[![Outlook Badge](https://img.shields.io/badge/-Email-121214?style=for-the-badge&labelColor=000&logo=microsoft%20outlook&logoColor=00BFA5&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
+   
+</p>
+
+
+### Currently working with
+   
+<a href="https://archlinux.org/" title="Arch Linux"><img alt="Arch Linux" src="https://i.imgur.com/sE2uD9R.png" height="40" /></a> &nbsp;
+<a href="https://code.visualstudio.com/" title="VSCode"><img alt="VS Code" src="https://i.imgur.com/AblPtbl.png" height="40" /></a> &nbsp;
+<a href="https://www.figma.com/" title="Figma"><img alt="Figma" src="https://i.imgur.com/gV7JD5s.png" height="40" /></a> &nbsp;
+<a href="https://www.notion.so/" title="Notion"><img alt="Notion" src="https://i.imgur.com/29lRQKi.png" height="40" /></a> &nbsp;
+<a href="https://reactjs.org/" title="React"><img alt="React" src="https://i.imgur.com/sceyub2.png" height="40" /></a> &nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JS"><img alt="JS" src="https://i.imgur.com/gTxnzy9.png" height="40" /></a> &nbsp;
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" src="https://i.imgur.com/X46usd4.png" height="40" /></a> &nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML"><img alt="HTML" src="https://i.imgur.com/wBVm2SL.png" height="40" /></a> &nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img alt="CSS" src="https://i.imgur.com/sFMK4iK.png" height="40" /></a> &nbsp;
+
+<br><br>
+
 <p align="center" >
-<img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&theme=gotham" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&theme=gotham" />
+<img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&title_color=10B1BB&text_color=E9F0F1&bg_color=45,29292F,121214&hide_border=true" />&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&title_color=10B1BB&icon_color=B5A0F6&text_color=E9F0F1&bg_color=45,29292F,121214&hide_border=true" />
 </p>
 
 ![Snake animation](https://github.com/omarcoaur3lio/omarcoaur3lio/blob/output/github-contribution-grid-snake.svg)
