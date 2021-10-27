@@ -19,7 +19,7 @@ I love the javascript universe and everything that involves the programming worl
 
 <br>
 
-~ $ <strong>finger hedy</strong>
+~ $ <strong>showme.sh</strong>
 Login: omarcoaur3lio                    Name: Marco Aurélio
 Directory: /home/marco                  Shell: /usr/bin/zsh
 Projects, ...tasks:
