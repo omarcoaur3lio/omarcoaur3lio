@@ -67,8 +67,8 @@ Plan:
 <br><br>
 
 <p align="center" >
-<img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&title_color=10B1BB&text_color=E9F0F1&bg_color=45,29292F,121214&hide_border=true" />&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&title_color=10B1BB&icon_color=B5A0F6&text_color=E9F0F1&bg_color=45,29292F,121214&hide_border=true" />
+<img width=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcoaur3lio&title_color=10B1BB&text_color=E9F0F1&bg_color=161B22&hide_border=true" />&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=omarcoaur3lio&show_icons=true&title_color=10B1BB&icon_color=B5A0F6&text_color=E9F0F1&bg_color=161B22&hide_border=true" />
 </p>
 
 ![Snake animation](https://github.com/omarcoaur3lio/omarcoaur3lio/blob/output/github-contribution-grid-snake.svg)
