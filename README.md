@@ -3,18 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee&color=%2310BBA4&size=30&vCenter=true&width=390&height=50&lines=Hey%2C+I'm+Marco.)](https://git.io/typing-svg)
 
 I love the javascript universe and everything that involves the programming world. I like to share knowledge and exchange ideas.
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 
 <table width="100%"> 
 <tr>
 <td width="50%">
 <pre>
 ~ $ <strong>cat about.txt</strong>
-1. I'm made in Rio Grande do Sul
+1. Graduated in Mechatronics Engineering
+   by <a href="https://web.satc.edu.br/">UniSatc</a> University 🤖. 
+2. I'm made in Rio Grande do Sul
    and love 🧉.
-2. Passionate about open source projects
+3. Passionate about open source projects
    Ask me about Linux 🐧
-3. My current city:
-   Criciúma, SC.
 
 <br>
 
@@ -24,7 +25,7 @@ Directory: /home/marco                  Shell: /usr/bin/zsh
 Projects, ...tasks:
   \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a> bootcamp.
   \- Contribute to open source projects.
-  \- Working with firmware development (C language) at <a href="https://www.synter.com.br/">Synter</a> 
+  \- Working with firmware development at <a href="https://www.synter.com.br/">Synter</a> 
 Plan:
   follow the white rabbit \o/
 </pre>
@@ -40,3 +41,5 @@ Plan:
 </p>
 </td>
 </table>
+
+
