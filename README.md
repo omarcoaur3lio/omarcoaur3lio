@@ -57,12 +57,12 @@ Plan:
 <a href="https://archlinux.org/" title="Arch Linux"><img alt="Arch Linux" src="https://i.imgur.com/sE2uD9R.png" height="40" /></a> &nbsp;
 <a href="https://code.visualstudio.com/" title="VSCode"><img alt="VS Code" src="https://i.imgur.com/AblPtbl.png" height="40" /></a> &nbsp;
 <a href="https://www.figma.com/" title="Figma"><img alt="Figma" src="https://i.imgur.com/gV7JD5s.png" height="40" /></a> &nbsp;
-<a href="https://www.notion.so/" title="Notion"><img alt="Notion" src="https://i.imgur.com/29lRQKi.png" height="40" /></a> &nbsp;
+<a href="https://www.notion.so/" title="Notion"><img alt="Notion" src="https://i.imgur.com/TRc1RYV.png" height="40" /></a> &nbsp;
 <a href="https://reactjs.org/" title="React"><img alt="React" src="https://i.imgur.com/sceyub2.png" height="40" /></a> &nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JS"><img alt="JS" src="https://i.imgur.com/gTxnzy9.png" height="40" /></a> &nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" src="https://i.imgur.com/X46usd4.png" height="40" /></a> &nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML"><img alt="HTML" src="https://i.imgur.com/wBVm2SL.png" height="40" /></a> &nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img alt="CSS" src="https://i.imgur.com/sFMK4iK.png" height="40" /></a> &nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML"><img alt="HTML" src="https://i.imgur.com/E5vWx9u.png" height="40" /></a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS"><img alt="CSS" src="https://i.imgur.com/SQl0xk1.png" height="40" /></a> &nbsp;
 
 <br><br>
 
