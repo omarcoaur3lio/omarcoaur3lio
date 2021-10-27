@@ -44,10 +44,10 @@ Plan:
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-121214?style=for-the-badge&labelColor=000&logo=Linkedin&logoColor=00BFA5&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-121214?style=for-the-badge&labelColor=000&logo=twitter&logoColor=00BFA5&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-121214?style=for-the-badge&labelColor=000&logo=Instagram&logoColor=00BFA5&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
-[![Outlook Badge](https://img.shields.io/badge/-Email-121214?style=for-the-badge&labelColor=000&logo=microsoft%20outlook&logoColor=00BFA5&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&labelColor=000&logo=Linkedin&logoColor=00BFA5&link=https://www.linkedin.com/in/omarcoaur3lio)](https://www.linkedin.com/in/omarcoaur3lio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&labelColor=000&logo=twitter&logoColor=00BFA5&link=https://twitter.com/omarcoaur3lio)](https://twitter.com/omarcoaur3lio)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&labelColor=000&logo=Instagram&logoColor=00BFA5&link=https://www.instagram/omarcoaur3lio)](https://www.instagram.com/omarcoaur3lio)
+[![Outlook Badge](https://img.shields.io/badge/-Email-000000?style=for-the-badge&labelColor=000&logo=microsoft%20outlook&logoColor=00BFA5&link=mailto:marcoaurelio_7@outlook.com)](mailto:marcoaurelio_7@outlook.com)
    
 </p>
 
