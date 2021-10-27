@@ -23,7 +23,7 @@ I love the javascript universe and everything that involves the programming worl
 Login: omarcoaur3lio                    Name: Marco Aurélio
 Directory: /home/marco                  Shell: /usr/bin/zsh
 Projects, ...tasks:
-  \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a> bootcamp.
+  \- Complete the React, React Native and NodeJS tracks on <a href="https://www.rocketseat.com.br/ignite">Ignite</a>.
   \- Contribute to open source projects.
   \- Working with firmware development at <a href="https://www.synter.com.br/">Synter</a> 
 Plan:
